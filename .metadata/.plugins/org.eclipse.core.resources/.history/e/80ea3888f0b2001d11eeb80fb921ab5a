@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title></title>
+	</head>
+	<jsp:include page="my-header.html" />
+	
+	Content ... <br/><br/>
+	Content ... <br/><br/>
+	Content ... <br/><br/>
+	
+	<jsp:include page="my-footer.jsp" />
+	<body>
+	
+	</body>
+</html>
